@@ -1,0 +1,6 @@
+{
+	"name": "KTRI Organization commit messages verification",
+	"description": "This action can be used organization-wide to verify that all commit messages adhere to Conventional Commits specifications (https://www.conventionalcommits.org/en/v1.0.0/)",
+	"categories": ["Continuous Integration", "Code Quality"],
+	"labels": ["preview"]
+}
